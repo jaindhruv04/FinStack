@@ -73,3 +73,19 @@ footer {
     margin-top: 3rem;
     color: #555;
 }
+
+.get-started {
+    display: inline-block;
+    margin-top: 1.5rem;
+    background-color: #ffd700;
+    color: #0e0e0e;
+    padding: 0.8rem 1.5rem;
+    text-decoration: none;
+    font-size: 1rem;
+    border-radius: 5px;
+    transition: background-color 0.2s;
+}
+
+.get-started:hover {
+    background-color: #e6c200;
+}
